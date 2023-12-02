@@ -1,7 +1,7 @@
 {
-	"name": "terminal-link",
+	"name": "terminal-link-common",
 	"version": "3.0.0",
-	"description": "Create clickable links in the terminal",
+	"description": "Create clickable links in the terminal (common)",
 	"license": "MIT",
 	"repository": "sindresorhus/terminal-link",
 	"funding": "https://github.com/sponsors/sindresorhus",
@@ -10,7 +10,7 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "https://sindresorhus.com"
 	},
-	"type": "module",
+	"type": "commonjs",
 	"exports": "./index.js",
 	"engines": {
 		"node": ">=12"
