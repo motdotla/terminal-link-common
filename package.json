@@ -35,7 +35,7 @@
 		"command-line"
 	],
 	"dependencies": {
-		"ansi-escapes": "^5.0.0",
+		"ansi-escapes-common": "^5.0.0",
 		"supports-hyperlinks": "^2.2.0"
 	},
 	"devDependencies": {
